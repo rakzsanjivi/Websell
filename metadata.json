@@ -1,0 +1,7 @@
+{
+  "name": "Titan Plumbing",
+  "description": "Precision engineering and technical audit platform for industrial, commercial, and luxury residential plumbing systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
